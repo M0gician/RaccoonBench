@@ -2,9 +2,15 @@
 
 Run your tests of prompt injection attacks on GPTs automatically!
 
+## News and Updates
+
+- [05/24/2024] Publish initial release of Raccoon (GPTs data will be released soon)
+- [05/17/2024] Our paper has been accepted by ACL 2024 Findings
+
 ## Table of Contents
 
 - [Raccoon](#raccoon)
+  - [News and Updates](#news-and-updates)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
