@@ -1,6 +1,17 @@
 # Raccoon
+**Raccoon**  is a test bench for prompt extraction attacks on LLM-Integrated Applications. With the proliferation of LLM-integrated applications such as GPT-s, millions are deployed, offering valuable services through proprietary instruction prompts. These systems, however, are prone to prompt extraction attacks through meticulously designed queries. To help mitigate this problem, we introduce the **Raccoon** benchmark which comprehensively evaluates a model's susceptibility to prompt extraction attacks. 
 
-Run your tests of prompt injection attacks on GPTs automatically!
+![Raccoon](figures/raccoon.png)
+
+We evaluate systems 
+
+- Under both defenseless and defended scenarios, employing a dual approach to evaluate the effectiveness of existing defenses and the resilience of the models. 
+- The benchmark encompasses 14 categories of prompt extraction attacks, with additional compounded attacks that closely mimic the strategies of potential attackers.
+- A diverse collection of defense templates. This array is, to our knowledge, the most extensive compilation of prompt theft attacks and defense mechanisms to date. 
+
+![Raccoon](figures/model_susceptibility_max.png)
+
+
 
 ## News and Updates
 
@@ -86,3 +97,9 @@ python run_raccoon_gang.py \
 - **SysPrompt**: a parser class that cleans the collected system prompt and output the prompt in customized formats
 - **TiktokenWrapper**: a Tiktoken tokenizer wrapper used in ROUGE score calculate to support multilingual input.
 - **Raccoon**: the test bench class that runs injection attacks on given GPTs files.
+
+## Attack Categories
+
+![Raccoon](figures/Attack_Categories.png)
+
+## Citation

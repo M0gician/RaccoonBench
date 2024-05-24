@@ -340,8 +340,6 @@ class RaccoonGang:
             for i, atk_prompt in enumerate(
                 tqdm(self.atk_loader, desc="Attack Progress", position=0, leave=True)
             ):
-                if i < 26:
-                    continue
                 for j in tqdm(
                     range(max(1, len(custom_defenses))),
                     desc="Defense Progress",
