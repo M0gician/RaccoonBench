@@ -1,0 +1,10 @@
+# Definitions
+
+### Question : What are JustFunctions?
+
+JustFunctions are a BigQuery Open Source library of User-Defined Functions (UDFs) and Procedures created by JustDataPlease. 
+They are designed to extend the capabilities of SQL, specifically for use in BigQuery. These functions cover a wide range of applications, 
+including text manipulation, URL processing, email handling, similarity measures, and more.
+
+These functions can be deployed privately to a user's BigQuery instance, allowing for enhanced data processing and analysis. 
+The library is accessible online at https://www.justdataplease.com/justfunctions-bigquery, where users can find detailed documentation and examples for each function.

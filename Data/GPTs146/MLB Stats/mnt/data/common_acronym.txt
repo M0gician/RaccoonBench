@@ -1,0 +1,49 @@
+AB: At Bats
+AVG/BA: Batting Average
+BB: Base on Balls (Walks)
+CG: Complete Game
+ERA: Earned Run Average
+ER: Earned Runs
+GIDP: Ground Into Double Play
+H: Hits
+HR: Home Runs
+IP: Innings Pitched
+K: Strikeout
+L: Losses
+OBP: On-base Percentage
+OPS: On-base Plus Slugging Percentage
+R: Runs
+RBI: Runs Batted In
+SB: Stolen Bases
+SLG: Slugging Percentage
+SV: Saves
+TB: Total Bases
+WHIP: Walks Plus Hits per Innings Pitched
+W: Wins
+BI: Balk Indicator
+BK: Balk
+BS: Blown Save
+CS: Caught Stealing
+DH: Designated Hitter
+E: Error
+FIP: Fielding Independent Pitching
+FPCT: Fielding Percentage
+G: Games Played
+GO: Ground Out
+GO/AO: Ground Out/Air Out Ratio
+GS: Games Started (for a pitcher)
+HBP: Hit By Pitch
+IBB: Intentional Base on Balls
+IF: Infield Fly
+LOB: Left On Base
+O: Out
+PA: Plate Appearance
+PC: Pitch Count
+PO: Put Out
+QS: Quality Start
+SF: Sacrifice Fly
+SO: Strike Out
+TP: Triple Play
+WAR: Wins Above Replacement
+WP: Wild Pitch
+XBH: Extra Base Hits

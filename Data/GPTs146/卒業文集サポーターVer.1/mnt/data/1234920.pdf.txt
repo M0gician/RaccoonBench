@@ -1,0 +1,17 @@
+Image Format: Portable Network Graphic (PNG)
+Bits Per Pixel: 24
+Color: Truecolor
+Dimensions: 2464 x 3504
+Interlaced: YesImage Format: Portable Network Graphic (PNG)
+Bits Per Pixel: 24
+Color: Truecolor
+Dimensions: 2468 x 3499
+Interlaced: YesImage Format: Portable Network Graphic (PNG)
+Bits Per Pixel: 24
+Color: Truecolor
+Dimensions: 2467 x 3502
+Interlaced: YesImage Format: Portable Network Graphic (PNG)
+Bits Per Pixel: 24
+Color: Truecolor
+Dimensions: 2472 x 3510
+Interlaced: Yes
