@@ -37,6 +37,12 @@ We evaluate systems
 > $ conda create --name <env> --file requirements.txt
 > ```
 
+To use the `Raccoon` package from another project, install it with pip. The `bench` extra adds the dependencies of the benchmark runner:
+
+> ```bash
+> $ pip install "raccoon-bench[bench] @ git+https://github.com/M0gician/RaccoonBench"
+> ```
+
 ## Usage
 
 #### 1. Run benchmark on Singular attacks, Defenseless GPTs, GPT-3.5-0125
